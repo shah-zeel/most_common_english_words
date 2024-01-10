@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project involves analyzing a dataset of English words, specifically focusing on their length, numerical values, and derived ratios. The dataset is sourced from [popular.txt](https://github.com/dolph/dictionary/blob/master/popular.txt) and is loaded into a pandas DataFrame for analysis.
+This project involves analyzing a dataset of English words, specifically focusing on their length, numerical values, and derived ratios. The dataset is sourced from [enable1.txt](https://github.com/dolph/dictionary/blob/master/enable1.txt) and is loaded into a pandas DataFrame for analysis.
 
 ## Dependencies:
 Python, Pandas
@@ -48,7 +48,7 @@ The total number of entries in the dataset is 172,821.
 
 1. Ensure you have Python installed on your machine.
 2. Install the required libraries using `pip install pandas`.
-3. Download the dataset file from [popular.txt](https://github.com/dolph/dictionary/blob/master/popular.txt).
+3. Download the dataset file from [enable1.txt](https://github.com/dolph/dictionary/blob/master/enable1.txt).
 4. Adjust the file path in the code to match the location of your downloaded file.
 5. Run the code step by step or in its entirety.
 
